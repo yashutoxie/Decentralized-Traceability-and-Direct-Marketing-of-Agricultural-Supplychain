@@ -1,0 +1,12 @@
+Block #0
+Timestamp: 2024-05-22 18:56:03.689813
+Data: Genesis Block
+Hash: 2123dd4d6291439d6530650a9f982080746bcc468ec51c0765aff74d3e6f0c3c
+Previous Hash: 0
+
+Block #1
+Timestamp: 2024-05-22 18:56:03.689813
+Data: ('15000', 'sbi', '4785478547896587', '12/26', '159', 'buyer@gmail.com', 'farmer@gmail.com', 'Completed')
+Hash: a710bbb7cdd3a79395ccf6a455ef50aa4c0fddd1fb03385ca3e6b8f51469b0b7
+Previous Hash: 2123dd4d6291439d6530650a9f982080746bcc468ec51c0765aff74d3e6f0c3c
+
